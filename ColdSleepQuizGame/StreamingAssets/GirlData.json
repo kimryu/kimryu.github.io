@@ -1,0 +1,40 @@
+{
+  "target": [
+    {
+      "Name": "藤本 真琴（ふじもと まこと）",
+      "StageIndex": 0,
+      "PicName_Fuku": "ImgGirl00_Fuku",
+      "PicName_Profile": "ImgGirl00_Profile",
+      "PicName_Picture": "ImgGirl00_Picture",
+      "PicName_Cold": "ImgGirl00_Cold",
+      "PicName_Cold_Kaitou1": "ImgGirl00_Cold_Kaitou1",
+      "PicName_Cold_Kaitou2": "ImgGirl00_Cold_Kaitou2",
+      "PicName_Cold_Kaitou3": "ImgGirl00_Cold_Kaitou3",
+      "PicName_Cold_Kaitou4": "ImgGirl00_Cold_Kaitou4",
+      "PicName_Cold_Kaitou5": "ImgGirl00_Cold_Kaitou5",
+      "PicName_Cold_NG": "ImgGirl00_Cold_NG",
+      "PicName_Cold_OK": "ImgGirl00_Cold_OK",
+      "PicName_Cold_Nama": "ImgGirl00_Cold_Nama",
+      "Line_Nama": "ここはどこ？\\n私、何してるの？",
+      "Line_Clear": "助けて下さって本当にありがとうございました。\\n世界がどんなけ変わってるか恐いけど、いっぱいがんばって生きていきます。"
+    },
+    {
+      "Name": "桜井 美優（さくらい みゆ）",
+      "StageIndex": 1,
+      "PicName_Fuku": "ImgGirl01_Fuku",
+      "PicName_Profile": "ImgGirl01_Profile",
+      "PicName_Picture": "ImgGirl01_Picture",
+      "PicName_Cold": "ImgGirl01_Cold",
+      "PicName_Cold_Kaitou1": "ImgGirl01_Cold_Kaitou1",
+      "PicName_Cold_Kaitou2": "ImgGirl01_Cold_Kaitou2",
+      "PicName_Cold_Kaitou3": "ImgGirl01_Cold_Kaitou3",
+      "PicName_Cold_Kaitou4": "ImgGirl01_Cold_Kaitou4",
+      "PicName_Cold_Kaitou5": "ImgGirl01_Cold_Kaitou5",
+      "PicName_Cold_NG": "ImgGirl01_Cold_NG",
+      "PicName_Cold_OK": "ImgGirl01_Cold_OK",
+      "PicName_Cold_Nama": "ImgGirl01_Cold_Nama",
+      "Line_Nama": "ここはどこ？\\n私、何してるの？",
+      "Line_Clear": "助けて下さって本当にありがとうございました。\\n世界がどんなけ変わってるか恐いけど、いっぱいがんばって生きていきます。"
+    }
+  ]
+}
