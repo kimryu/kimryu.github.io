@@ -1,0 +1,24 @@
+{
+"target": [
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Cold",
+        "variations": "ImgGirl00_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Cold_Kaitou1",
+        "variations": "ImgGirl00_Cold_Kaitou1, ImgGirl00_Cold_Kaitou2, ImgGirl00_Cold_Kaitou3, ImgGirl00_Cold_Kaitou4, ImgGirl00_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Cold_Nama",
+        "variations": "ImgGirl00_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Cold_OK",
+        "variations": "ImgGirl00_Cold_OK, ImgGirl00_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Cold_NG",
+        "variations": "ImgGirl00_Fuku"
+    }
+]
+}
