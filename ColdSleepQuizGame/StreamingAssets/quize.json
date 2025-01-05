@@ -192,7 +192,7 @@
     {
         "StageIndex": 2,
         "Category": "ゲーム",
-        "Question": "「ドラゴンクエストV」で、主人公が結婚する相手として選べるキャラクターは誰ですか？",
+        "Question": "ニンテンドーDS版「ドラゴンクエストV」で、主人公が結婚する相手として選べるキャラクターは誰ですか？",
         "CorrectAnswer": "ビアンカ、フローラ、デボラ",
         "WrongAnswer1": "ビアンカ、フローラ、マリア",
         "WrongAnswer2": "ビアンカ、フローラ、アンナ",
@@ -228,15 +228,6 @@
     {
         "StageIndex": 2,
         "Category": "ゲーム",
-        "Question": "「モンスターハンター：ワールド」で、プレイヤーが探索する新大陸の名前は何ですか？",
-        "CorrectAnswer": "古代樹の森",
-        "WrongAnswer1": "渡りの凍て地",
-        "WrongAnswer2": "瘴気の谷",
-        "WrongAnswer3": "龍結晶の地"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "ゲーム",
         "Question": "「ニーア レプリカント」で、主人公が探している妹の名前は何ですか？",
         "CorrectAnswer": "ヨナ",
         "WrongAnswer1": "カイネ",
@@ -251,15 +242,6 @@
         "WrongAnswer1": "ルキナ",
         "WrongAnswer2": "サーリャ",
         "WrongAnswer3": "ノワール"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "ゲーム",
-        "Question": "「ゼノギアス」で、主人公フェイの本名は何ですか？",
-        "CorrectAnswer": "ラカン",
-        "WrongAnswer1": "イド",
-        "WrongAnswer2": "カレルレン",
-        "WrongAnswer3": "グラーフ"
     },
     {
         "StageIndex": 2,
@@ -336,20 +318,11 @@
     {
         "StageIndex": 2,
         "Category": "ゲーム",
-        "Question": "「ファイアーエムブレム 風花雪月」で、主人公が教える学級の名前は何ですか？",
+        "Question": "「ファイアーエムブレム 風花雪月」で、ストーリー前半に主人公が教師となる舞台は？",
         "CorrectAnswer": "士官学校",
         "WrongAnswer1": "騎士団",
         "WrongAnswer2": "魔道学院",
         "WrongAnswer3": "剣士学校"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "ゲーム",
-        "Question": "「ゼノブレイド2」で、主人公レックスが探している伝説の楽園の名前は何ですか？",
-        "CorrectAnswer": "エリジウム",
-        "WrongAnswer1": "アルスト",
-        "WrongAnswer2": "モルス",
-        "WrongAnswer3": "インヴィディア"
     },
     {
         "StageIndex": 7,
@@ -460,24 +433,6 @@
         "WrongAnswer3": "エイリアン"
     },
     {
-        "StageIndex": 7,
-        "Category": "映画",
-        "Question": "映画『インセプション』で、主人公ドム・コブが使用するトーテムは何ですか？",
-        "CorrectAnswer": "コマ",
-        "WrongAnswer1": "ダイス",
-        "WrongAnswer2": "コイン",
-        "WrongAnswer3": "指輪"
-    },
-    {
-        "StageIndex": 7,
-        "Category": "映画",
-        "Question": "映画『アベンジャーズ』シリーズで、アイアンマンの本名は何ですか？",
-        "CorrectAnswer": "トニー・スターク",
-        "WrongAnswer1": "スティーブ・ロジャース",
-        "WrongAnswer2": "ブルース・バナー",
-        "WrongAnswer3": "ピーター・パーカー"
-    },
-    {
         "StageIndex": 3,
         "Category": "音楽",
         "Question": "ビートルズのメンバーで、ベースを担当していたのは誰ですか？",
@@ -552,15 +507,6 @@
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "ローリング・ストーンズのギタリスト、キース・リチャーズの生まれた年はいつですか？",
-        "CorrectAnswer": "1943年",
-        "WrongAnswer1": "1941年",
-        "WrongAnswer2": "1945年",
-        "WrongAnswer3": "1947年"
-    },
-    {
-        "StageIndex": 4,
-        "Category": "音楽",
         "Question": "アデルのアルバム『21』に収録されているヒット曲はどれですか？",
         "CorrectAnswer": "ローリング・イン・ザ・ディープ",
         "WrongAnswer1": "ハロー",
@@ -571,10 +517,10 @@
         "StageIndex": 4,
         "Category": "音楽",
         "Question": "ビリー・アイリッシュのデビューアルバムのタイトルは何ですか？",
-        "CorrectAnswer": "ホエン・ウィー・オール・フォール・アスリープ、ホエア・ドゥ・ウィー・ゴー？",
-        "WrongAnswer1": "ドント・スマイル・アット・ミー",
-        "WrongAnswer2": "ハピアー・ザン・エヴァー",
-        "WrongAnswer3": "エヴリシング・アイ・ウォンテッド"
+        "CorrectAnswer": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO",
+        "WrongAnswer1": "Don't Smile at Me",
+        "WrongAnswer2": "Happier Than Ever",
+        "WrongAnswer3": "everything i wanted"
     },
     {
         "StageIndex": 4,
@@ -615,66 +561,93 @@
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "レッド・ツェッペリンのギタリスト、ジミー・ペイジが使用していたギターのモデルは何ですか？",
-        "CorrectAnswer": "ギブソン・レスポール",
-        "WrongAnswer1": "フェンダー・ストラトキャスター",
-        "WrongAnswer2": "ギブソン・SG",
-        "WrongAnswer3": "フェンダー・テレキャスター"
+        "Question": "日本のロックバンド「X JAPAN」のリーダーであり、ドラムとピアノを担当しているメンバーは誰ですか？",
+        "CorrectAnswer": "YOSHIKI",
+        "WrongAnswer1": "TOSHI",
+        "WrongAnswer2": "HIDE",
+        "WrongAnswer3": "PATA"
     },
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "ビヨンセのアルバム『レモネード』に収録されているヒット曲はどれですか？",
-        "CorrectAnswer": "フォーメーション",
-        "WrongAnswer1": "シングル・レディース",
-        "WrongAnswer2": "ハロー",
-        "WrongAnswer3": "イリュージョン"
+        "Question": "日本のポップグループ「嵐」のデビューシングルは何ですか？",
+        "CorrectAnswer": "A・RA・SHI",
+        "WrongAnswer1": "Love so sweet",
+        "WrongAnswer2": "Happiness",
+        "WrongAnswer3": "One Love"
     },
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "プリンスのアルバム『パープル・レイン』がリリースされた年はいつですか？",
-        "CorrectAnswer": "1984年",
-        "WrongAnswer1": "1982年",
-        "WrongAnswer2": "1986年",
-        "WrongAnswer3": "1988年"
+        "Question": "日本のシンガーソングライター「宇多田ヒカル」のデビューアルバムは何ですか？",
+        "CorrectAnswer": "First Love",
+        "WrongAnswer1": "Distance",
+        "WrongAnswer2": "Deep River",
+        "WrongAnswer3": "Heart Station"
     },
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "アリアナ・グランデのヒット曲『サンキュー、ネクスト』がリリースされた年はいつですか？",
-        "CorrectAnswer": "2018年",
-        "WrongAnswer1": "2016年",
-        "WrongAnswer2": "2017年",
-        "WrongAnswer3": "2019年"
+        "Question": "日本のバンド「B'z」の代表曲であり、1998年にリリースされたシングルは何ですか？",
+        "CorrectAnswer": "ultra soul",
+        "WrongAnswer1": "LOVE PHANTOM",
+        "WrongAnswer2": "今夜月の見える丘に",
+        "WrongAnswer3": "ギリギリchop"
     },
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "レディー・ガガのヒット曲『バッド・ロマンス』が収録されているアルバムはどれですか？",
-        "CorrectAnswer": "ザ・フェイム・モンスター",
-        "WrongAnswer1": "ボーン・ディス・ウェイ",
-        "WrongAnswer2": "アートポップ",
-        "WrongAnswer3": "ジョアン"
+        "Question": "日本のアイドルグループ「AKB48」の総監督を務めたことがあるメンバーは誰ですか？",
+        "CorrectAnswer": "高橋みなみ",
+        "WrongAnswer1": "前田敦子",
+        "WrongAnswer2": "大島優子",
+        "WrongAnswer3": "渡辺麻友"
     },
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "エド・シーランのヒット曲『シェイプ・オブ・ユー』が収録されているアルバムはどれですか？",
-        "CorrectAnswer": "÷ (ディバイド)",
-        "WrongAnswer1": "× (マルティプライ)",
-        "WrongAnswer2": "+ (プラス)",
-        "WrongAnswer3": "= (イコール)"
+        "Question": "日本のバンド「サザンオールスターズ」の代表曲であり、夏の定番ソングとされる曲は何ですか？",
+        "CorrectAnswer": "TSUNAMI",
+        "WrongAnswer1": "勝手にシンドバッド",
+        "WrongAnswer2": "いとしのエリー",
+        "WrongAnswer3": "真夏の果実"
     },
     {
         "StageIndex": 4,
         "Category": "音楽",
-        "Question": "テイラー・スウィフトのアルバム『1989』に収録されているヒット曲はどれですか？",
-        "CorrectAnswer": "シェイク・イット・オフ",
-        "WrongAnswer1": "ラヴ・ストーリー",
-        "WrongAnswer2": "ウィー・アー・ネバー・エバー・ゲッティング・バック・トゥゲザー",
-        "WrongAnswer3": "ユー・ビロング・ウィズ・ミー"
+        "Question": "日本のシンガーソングライター「米津玄師」の代表曲であり、アニメ映画『天気の子』の主題歌となった曲は何ですか？",
+        "CorrectAnswer": "Lemon",
+        "WrongAnswer1": "アイネクライネ",
+        "WrongAnswer2": "ピースサイン",
+        "WrongAnswer3": "馬と鹿"
     },
+    {
+        "StageIndex": 4,
+        "Category": "音楽",
+        "Question": "日本のバンド「ONE OK ROCK」のボーカリストの名前は何ですか？",
+        "CorrectAnswer": "Taka",
+        "WrongAnswer1": "Toru",
+        "WrongAnswer2": "Ryota",
+        "WrongAnswer3": "Tomoya"
+    },
+    {
+        "StageIndex": 4,
+        "Category": "音楽",
+        "Question": "日本のアイドルグループ「Perfume」のメンバーは何人ですか？",
+        "CorrectAnswer": "3人",
+        "WrongAnswer1": "2人",
+        "WrongAnswer2": "4人",
+        "WrongAnswer3": "5人"
+    },
+    {
+        "StageIndex": 4,
+        "Category": "音楽",
+        "Question": "日本のシンガーソングライター「椎名林檎」のデビューシングルは何ですか？",
+        "CorrectAnswer": "幸福論",
+        "WrongAnswer1": "ここでキスして。",
+        "WrongAnswer2": "ギブス",
+        "WrongAnswer3": "罪と罰"
+    }, 
     {
         "StageIndex": 2,
         "Category": "歴史",
@@ -737,160 +710,69 @@
         "WrongAnswer1": "1799年",
         "WrongAnswer2": "1812年",
         "WrongAnswer3": "1815年"
-    },
-    {
+    },{
         "StageIndex": 1,
         "Category": "歴史",
-        "Question": "中国の秦の始皇帝が中国を統一した年はいつですか？",
-        "CorrectAnswer": "紀元前221年",
-        "WrongAnswer1": "紀元前206年",
-        "WrongAnswer2": "紀元前202年",
-        "WrongAnswer3": "紀元前210年"
+        "Question": "秦の始皇帝が中国を統一するために建設した有名な建造物は何ですか？",
+        "CorrectAnswer": "万里の長城",
+        "WrongAnswer1": "紫禁城",
+        "WrongAnswer2": "天安門",
+        "WrongAnswer3": "兵馬俑"
     },
     {
         "StageIndex": 2,
         "Category": "歴史",
-        "Question": "イギリスのエリザベス1世が即位した年はいつですか？",
-        "CorrectAnswer": "1558年",
-        "WrongAnswer1": "1603年",
-        "WrongAnswer2": "1588年",
-        "WrongAnswer3": "1547年"
+        "Question": "エリザベス1世の治世中にイギリスが撃退した有名な艦隊は何ですか？",
+        "CorrectAnswer": "スペイン無敵艦隊",
+        "WrongAnswer1": "フランス艦隊",
+        "WrongAnswer2": "オランダ艦隊",
+        "WrongAnswer3": "ポルトガル艦隊"
     },
     {
         "StageIndex": 3,
         "Category": "歴史",
-        "Question": "ロシア革命が起こった年はいつですか？",
-        "CorrectAnswer": "1917年",
-        "WrongAnswer1": "1905年",
-        "WrongAnswer2": "1922年",
-        "WrongAnswer3": "1936年"
+        "Question": "ロシア革命の指導者であり、後にソビエト連邦の初代指導者となった人物は誰ですか？",
+        "CorrectAnswer": "レーニン",
+        "WrongAnswer1": "スターリン",
+        "WrongAnswer2": "トロツキー",
+        "WrongAnswer3": "ゴルバチョフ"
     },
     {
         "StageIndex": 4,
         "Category": "歴史",
-        "Question": "ベルリンの壁が崩壊した年はいつですか？",
-        "CorrectAnswer": "1989年",
-        "WrongAnswer1": "1991年",
-        "WrongAnswer2": "1985年",
-        "WrongAnswer3": "1990年"
+        "Question": "ベルリンの壁が崩壊した象徴的な出来事は何ですか？",
+        "CorrectAnswer": "東西ドイツの再統一",
+        "WrongAnswer1": "冷戦の開始",
+        "WrongAnswer2": "ナチスの台頭",
+        "WrongAnswer3": "第一次世界大戦の終結"
     },
     {
         "StageIndex": 5,
         "Category": "歴史",
-        "Question": "日本の明治維新が始まった年はいつですか？",
-        "CorrectAnswer": "1868年",
-        "WrongAnswer1": "1853年",
-        "WrongAnswer2": "1877年",
-        "WrongAnswer3": "1889年"
+        "Question": "明治維新の結果、日本が採用した新しい政治体制は何ですか？",
+        "CorrectAnswer": "立憲君主制",
+        "WrongAnswer1": "絶対君主制",
+        "WrongAnswer2": "共和制",
+        "WrongAnswer3": "社会主義"
     },
     {
         "StageIndex": 6,
         "Category": "歴史",
-        "Question": "アメリカ独立宣言が採択された年はいつですか？",
-        "CorrectAnswer": "1776年",
-        "WrongAnswer1": "1783年",
-        "WrongAnswer2": "1775年",
-        "WrongAnswer3": "1781年"
+        "Question": "アメリカ独立宣言を起草した主要な人物は誰ですか？",
+        "CorrectAnswer": "トーマス・ジェファーソン",
+        "WrongAnswer1": "ジョージ・ワシントン",
+        "WrongAnswer2": "ベンジャミン・フランクリン",
+        "WrongAnswer3": "アレクサンダー・ハミルトン"
     },
     {
         "StageIndex": 7,
         "Category": "歴史",
-        "Question": "マグナ・カルタが署名された年はいつですか？",
-        "CorrectAnswer": "1215年",
-        "WrongAnswer1": "1066年",
-        "WrongAnswer2": "1307年",
-        "WrongAnswer3": "1415年"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "歴史",
-        "Question": "第二次世界大戦中に行われたノルマンディー上陸作戦の開始日はいつですか？",
-        "CorrectAnswer": "1944年6月6日",
-        "WrongAnswer1": "1943年6月6日",
-        "WrongAnswer2": "1945年6月6日",
-        "WrongAnswer3": "1942年6月6日"
-    },
-    {
-        "StageIndex": 1,
-        "Category": "歴史",
-        "Question": "ロシアのピョートル大帝が即位した年はいつですか？",
-        "CorrectAnswer": "1682年",
-        "WrongAnswer1": "1703年",
-        "WrongAnswer2": "1721年",
-        "WrongAnswer3": "1696年"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "歴史",
-        "Question": "アレクサンドロス大王が生まれた年はいつですか？",
-        "CorrectAnswer": "紀元前356年",
-        "WrongAnswer1": "紀元前323年",
-        "WrongAnswer2": "紀元前336年",
-        "WrongAnswer3": "紀元前300年"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "歴史",
-        "Question": "第一次世界大戦の原因となったサラエボ事件が起こった年はいつですか？",
-        "CorrectAnswer": "1914年",
-        "WrongAnswer1": "1912年",
-        "WrongAnswer2": "1916年",
-        "WrongAnswer3": "1918年"
-    },
-    {
-        "StageIndex": 4,
-        "Category": "歴史",
-        "Question": "中国の文化大革命が始まった年はいつですか？",
-        "CorrectAnswer": "1966年",
-        "WrongAnswer1": "1956年",
-        "WrongAnswer2": "1976年",
-        "WrongAnswer3": "1986年"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "歴史",
-        "Question": "フランスのルイ14世が即位した年はいつですか？",
-        "CorrectAnswer": "1643年",
-        "WrongAnswer1": "1661年",
-        "WrongAnswer2": "1685年",
-        "WrongAnswer3": "1701年"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "歴史",
-        "Question": "アメリカの奴隷解放宣言が発布された年はいつですか？",
-        "CorrectAnswer": "1863年",
-        "WrongAnswer1": "1861年",
-        "WrongAnswer2": "1865年",
-        "WrongAnswer3": "1870年"
-    },
-    {
-        "StageIndex": 7,
-        "Category": "歴史",
-        "Question": "日本の鎌倉幕府が成立した年はいつですか？",
-        "CorrectAnswer": "1192年",
-        "WrongAnswer1": "1185年",
-        "WrongAnswer2": "1200年",
-        "WrongAnswer3": "1212年"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "歴史",
-        "Question": "ローマ帝国の初代皇帝は誰ですか？",
-        "CorrectAnswer": "アウグストゥス",
-        "WrongAnswer1": "カエサル",
-        "WrongAnswer2": "ネロ",
-        "WrongAnswer3": "トラヤヌス"
-    },
-    {
-        "StageIndex": 1,
-        "Category": "歴史",
-        "Question": "フランス革命のきっかけとなったバスティーユ牢獄の襲撃が起こった年はいつですか？",
-        "CorrectAnswer": "1789年",
-        "WrongAnswer1": "1793年",
-        "WrongAnswer2": "1776年",
-        "WrongAnswer3": "1804年"
-    },
+        "Question": "マグナ・カルタが署名された場所はどこですか？",
+        "CorrectAnswer": "ラニーミード",
+        "WrongAnswer1": "ロンドン",
+        "WrongAnswer2": "ウィンザー",
+        "WrongAnswer3": "ケンブリッジ"
+    },    
     {
         "StageIndex": 2,
         "Category": "科学",
@@ -973,15 +855,6 @@
         "WrongAnswer3": "火星"
     },
     {
-        "StageIndex": 3,
-        "Category": "科学",
-        "Question": "アルベルト・アインシュタインが提唱した有名な方程式は何ですか？",
-        "CorrectAnswer": "E=mc²",
-        "WrongAnswer1": "F=ma",
-        "WrongAnswer2": "a²+b²=c²",
-        "WrongAnswer3": "PV=nRT"
-    },
-    {
         "StageIndex": 4,
         "Category": "科学",
         "Question": "地球の大気中で最も多い成分は何ですか？",
@@ -1047,24 +920,6 @@
     {
         "StageIndex": 1,
         "Category": "科学",
-        "Question": "最も硬い天然物質は何ですか？",
-        "CorrectAnswer": "ダイヤモンド",
-        "WrongAnswer1": "ルビー",
-        "WrongAnswer2": "サファイア",
-        "WrongAnswer3": "トパーズ"
-    },
-    {
-        "StageIndex": 1,
-        "Category": "科学",
-        "Question": "地球の大気圏の最も外側の層は何と呼ばれていますか？",
-        "CorrectAnswer": "外気圏",
-        "WrongAnswer1": "熱圏",
-        "WrongAnswer2": "中間圏",
-        "WrongAnswer3": "成層圏"
-    },
-    {
-        "StageIndex": 1,
-        "Category": "科学",
         "Question": "酸素の化学記号は何ですか？",
         "CorrectAnswer": "O",
         "WrongAnswer1": "Ox",
@@ -1099,15 +954,6 @@
         "WrongAnswer3": "リチャード・ファインマン"
     },
     {
-        "StageIndex": 1,
-        "Category": "科学",
-        "Question": "DNAの二重らせん構造を発見した科学者は誰ですか？",
-        "CorrectAnswer": "ジェームズ・ワトソンとフランシス・クリック",
-        "WrongAnswer1": "ロザリンド・フランクリンとモーリス・ウィルキンス",
-        "WrongAnswer2": "チャールズ・ダーウィンとアルフレッド・ウォレス",
-        "WrongAnswer3": "グレゴール・メンデルとトーマス・モーガン"
-    },
-    {
         "StageIndex": 0,
         "Category": "文学",
         "Question": "シェイクスピアの戯曲『ハムレット』で、ハムレットの母親の名前は何ですか？",
@@ -1134,132 +980,7 @@
         "WrongAnswer2": "アントン・チェーホフ",
         "WrongAnswer3": "イワン・ツルゲーネフ"
     },
-    {
-        "StageIndex": 3,
-        "Category": "文学",
-        "Question": "『百年の孤独』の著者は誰ですか？",
-        "CorrectAnswer": "ガブリエル・ガルシア＝マルケス",
-        "WrongAnswer1": "パウロ・コエーリョ",
-        "WrongAnswer2": "ホルヘ・ルイス・ボルヘス",
-        "WrongAnswer3": "マリオ・バルガス＝リョサ"
-    },
-    {
-        "StageIndex": 4,
-        "Category": "文学",
-        "Question": "『老人と海』の著者は誰ですか？",
-        "CorrectAnswer": "アーネスト・ヘミングウェイ",
-        "WrongAnswer1": "ジョン・スタインベック",
-        "WrongAnswer2": "ウィリアム・フォークナー",
-        "WrongAnswer3": "F・スコット・フィッツジェラルド"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "文学",
-        "Question": "『変身』の著者は誰ですか？",
-        "CorrectAnswer": "フランツ・カフカ",
-        "WrongAnswer1": "トーマス・マン",
-        "WrongAnswer2": "ヘルマン・ヘッセ",
-        "WrongAnswer3": "ロベルト・ムージル"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "文学",
-        "Question": "『ライ麦畑でつかまえて』の著者は誰ですか？",
-        "CorrectAnswer": "J.D.サリンジャー",
-        "WrongAnswer1": "ジョージ・オーウェル",
-        "WrongAnswer2": "オルダス・ハクスリー",
-        "WrongAnswer3": "カート・ヴォネガット"
-    },
-    {
-        "StageIndex": 7,
-        "Category": "文学",
-        "Question": "『アンナ・カレーニナ』の著者は誰ですか？",
-        "CorrectAnswer": "レフ・トルストイ",
-        "WrongAnswer1": "フョードル・ドストエフスキー",
-        "WrongAnswer2": "アントン・チェーホフ",
-        "WrongAnswer3": "イワン・ツルゲーネフ"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『オデュッセイア』の著者は誰ですか？",
-        "CorrectAnswer": "ホメロス",
-        "WrongAnswer1": "ヘシオドス",
-        "WrongAnswer2": "ソフォクレス",
-        "WrongAnswer3": "エウリピデス"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『失われた時を求めて』の著者は誰ですか？",
-        "CorrectAnswer": "マルセル・プルースト",
-        "WrongAnswer1": "ギュスターヴ・フローベール",
-        "WrongAnswer2": "エミール・ゾラ",
-        "WrongAnswer3": "スタンダール"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『ドリアン・グレイの肖像』の著者は誰ですか？",
-        "CorrectAnswer": "オスカー・ワイルド",
-        "WrongAnswer1": "ジェームズ・ジョイス",
-        "WrongAnswer2": "サミュエル・ベケット",
-        "WrongAnswer3": "ウィリアム・バトラー・イェイツ"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『白鯨』の著者は誰ですか？",
-        "CorrectAnswer": "ハーマン・メルヴィル",
-        "WrongAnswer1": "ナサニエル・ホーソーン",
-        "WrongAnswer2": "エドガー・アラン・ポー",
-        "WrongAnswer3": "ウォルト・ホイットマン"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『戦争と平和』の著者は誰ですか？",
-        "CorrectAnswer": "レフ・トルストイ",
-        "WrongAnswer1": "フョードル・ドストエフスキー",
-        "WrongAnswer2": "アントン・チェーホフ",
-        "WrongAnswer3": "イワン・ツルゲーネフ"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『グレート・ギャツビー』の著者は誰ですか？",
-        "CorrectAnswer": "F・スコット・フィッツジェラルド",
-        "WrongAnswer1": "アーネスト・ヘミングウェイ",
-        "WrongAnswer2": "ジョン・スタインベック",
-        "WrongAnswer3": "ウィリアム・フォークナー"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『ドン・キホーテ』の著者は誰ですか？",
-        "CorrectAnswer": "ミゲル・デ・セルバンテス",
-        "WrongAnswer1": "ガブリエル・ガルシア＝マルケス",
-        "WrongAnswer2": "パウロ・コエーリョ",
-        "WrongAnswer3": "ホルヘ・ルイス・ボルヘス"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『嵐が丘』の著者は誰ですか？",
-        "CorrectAnswer": "エミリー・ブロンテ",
-        "WrongAnswer1": "シャーロット・ブロンテ",
-        "WrongAnswer2": "ジェーン・オースティン",
-        "WrongAnswer3": "メアリー・シェリー"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "文学",
-        "Question": "『フランケンシュタイン』の著者は誰ですか？",
-        "CorrectAnswer": "メアリー・シェリー",
-        "WrongAnswer1": "ブラム・ストーカー",
-        "WrongAnswer2": "エドガー・アラン・ポー",
-        "WrongAnswer3": "ロバート・ルイス・スティーヴンソン"
-    },
+
     {
         "StageIndex": 0,
         "Category": "文学",
@@ -1277,6 +998,15 @@
         "WrongAnswer1": "マヌエル",
         "WrongAnswer2": "ペドロ",
         "WrongAnswer3": "ホセ"
+    },
+    {
+        "StageIndex": 4,
+        "Category": "文学",
+        "Question": "『老人と海』で主人公の老人が戦う巨大な魚は何ですか？",
+        "CorrectAnswer": "マカジキ",
+        "WrongAnswer1": "サメ",
+        "WrongAnswer2": "クジラ",
+        "WrongAnswer3": "タラ"
     },
     {
         "StageIndex": 0,
@@ -1297,13 +1027,31 @@
         "WrongAnswer3": "レアル"
     },
     {
-        "StageIndex": 0,
+        "StageIndex": 5,
         "Category": "文学",
-        "Question": "『変身』で、主人公が変身する生物は何ですか？",
-        "CorrectAnswer": "巨大な虫",
+        "Question": "カフカの『変身』で主人公が変身する生物は何ですか？",
+        "CorrectAnswer": "虫",
         "WrongAnswer1": "狼",
-        "WrongAnswer2": "吸血鬼",
-        "WrongAnswer3": "幽霊"
+        "WrongAnswer2": "鳥",
+        "WrongAnswer3": "魚"
+    },
+    {
+        "StageIndex": 7,
+        "Category": "文学",
+        "Question": "『アンナ・カレーニナ』の主人公アンナが愛する男性の名前は何ですか？",
+        "CorrectAnswer": "アレクセイ・ヴロンスキー",
+        "WrongAnswer1": "コンスタンティン・レーヴィン",
+        "WrongAnswer2": "ピョートル・ベズーホフ",
+        "WrongAnswer3": "アンドレイ・ボルコンスキー"
+    },
+    {
+        "StageIndex": 6,
+        "Category": "文学",
+        "Question": "『ライ麦畑でつかまえて』の主人公の名前は何ですか？",
+        "CorrectAnswer": "ホールデン・コールフィールド",
+        "WrongAnswer1": "ジェイ・ギャツビー",
+        "WrongAnswer2": "トム・ソーヤー",
+        "WrongAnswer3": "ハックルベリー・フィン"
     },
     {
         "StageIndex": 0,
@@ -1326,7 +1074,7 @@
     {
         "StageIndex": 1,
         "Category": "スポーツ",
-        "Question": "オリンピックで最も多くの金メダルを獲得したアスリートは誰ですか？",
+        "Question": "2024年のオリンピックまでで最も多くの金メダルを獲得したアスリートは誰ですか？",
         "CorrectAnswer": "マイケル・フェルプス",
         "WrongAnswer1": "ウサイン・ボルト",
         "WrongAnswer2": "カール・ルイス",
@@ -1371,156 +1119,75 @@
     {
         "StageIndex": 6,
         "Category": "スポーツ",
-        "Question": "NBAで、最も多くの得点を記録した選手は誰ですか？",
-        "CorrectAnswer": "カリーム・アブドゥル＝ジャバー",
-        "WrongAnswer1": "マイケル・ジョーダン",
-        "WrongAnswer2": "レブロン・ジェームズ",
-        "WrongAnswer3": "コービー・ブライアント"
+        "Question": "バスケットボールで、選手がボールを持ったまま3歩以上歩くと何の反則になりますか？",
+        "CorrectAnswer": "トラベリング",
+        "WrongAnswer1": "ダブルドリブル",
+        "WrongAnswer2": "ゴールテンディング",
+        "WrongAnswer3": "ファウル"
     },
     {
         "StageIndex": 7,
         "Category": "スポーツ",
-        "Question": "F1で、最も多くのワールドチャンピオンタイトルを獲得したドライバーは誰ですか？",
-        "CorrectAnswer": "ルイス・ハミルトン",
-        "WrongAnswer1": "ミハエル・シューマッハ",
-        "WrongAnswer2": "アイルトン・セナ",
-        "WrongAnswer3": "アラン・プロスト"
+        "Question": "サッカーで、選手が相手ゴールキーパーに直接パスをすると何の反則になりますか？",
+        "CorrectAnswer": "バックパス",
+        "WrongAnswer1": "オフサイド",
+        "WrongAnswer2": "ハンド",
+        "WrongAnswer3": "ファウル"
     },
     {
         "StageIndex": 5,
         "Category": "スポーツ",
-        "Question": "ラグビーのワールドカップで、最も多く優勝した国はどこですか？",
-        "CorrectAnswer": "ニュージーランド",
-        "WrongAnswer1": "南アフリカ",
-        "WrongAnswer2": "オーストラリア",
-        "WrongAnswer3": "イングランド"
+        "Question": "野球で、バッターが3ストライクを取られると何になりますか？",
+        "CorrectAnswer": "アウト",
+        "WrongAnswer1": "ボール",
+        "WrongAnswer2": "フォアボール",
+        "WrongAnswer3": "ヒット"
     },
     {
         "StageIndex": 5,
         "Category": "スポーツ",
-        "Question": "ゴルフのメジャートーナメントで、最も多く優勝した選手は誰ですか？",
-        "CorrectAnswer": "ジャック・ニクラス",
-        "WrongAnswer1": "タイガー・ウッズ",
-        "WrongAnswer2": "アーノルド・パーマー",
-        "WrongAnswer3": "ベン・ホーガン"
+        "Question": "ラグビーで、ボールを前に投げることは何の反則になりますか？",
+        "CorrectAnswer": "ノックオン",
+        "WrongAnswer1": "オフサイド",
+        "WrongAnswer2": "ハンドリングエラー",
+        "WrongAnswer3": "スクラム"
     },
     {
         "StageIndex": 5,
         "Category": "スポーツ",
-        "Question": "ボクシングで、最も多くの階級で世界チャンピオンになった選手は誰ですか？",
-        "CorrectAnswer": "マニー・パッキャオ",
-        "WrongAnswer1": "フロイド・メイウェザー",
-        "WrongAnswer2": "シュガー・レイ・レナード",
-        "WrongAnswer3": "オスカー・デ・ラ・ホーヤ"
+        "Question": "バレーボールで、サーブを受ける際にボールが地面に触れる前に3回以内で返すことができなかった場合、何の反則になりますか？",
+        "CorrectAnswer": "フォールト",
+        "WrongAnswer1": "レット",
+        "WrongAnswer2": "ダブルタッチ",
+        "WrongAnswer3": "ネットタッチ"
     },
     {
         "StageIndex": 5,
         "Category": "スポーツ",
-        "Question": "クリケットのワールドカップで、最も多く優勝した国はどこですか？",
-        "CorrectAnswer": "オーストラリア",
-        "WrongAnswer1": "インド",
-        "WrongAnswer2": "イングランド",
-        "WrongAnswer3": "西インド諸島"
+        "Question": "クリケットで、バッターがボールを打った後、相手チームのフィールダーがキャッチした場合、何と呼ばれますか？",
+        "CorrectAnswer": "キャッチアウト",
+        "WrongAnswer1": "ボウルアウト",
+        "WrongAnswer2": "ランアウト",
+        "WrongAnswer3": "ストンプアウト"
     },
     {
         "StageIndex": 5,
         "Category": "スポーツ",
-        "Question": "ツール・ド・フランスで、最も多く総合優勝した選手は誰ですか？",
-        "CorrectAnswer": "ランス・アームストロング",
-        "WrongAnswer1": "エディ・メルクス",
-        "WrongAnswer2": "クリス・フルーム",
-        "WrongAnswer3": "ベルナール・イノー"
+        "Question": "アイスホッケーで、選手がスティックを使って相手選手を引っ掛けることは何の反則になりますか？",
+        "CorrectAnswer": "フッキング",
+        "WrongAnswer1": "トリッピング",
+        "WrongAnswer2": "クロスチェック",
+        "WrongAnswer3": "スラッシング"
     },
     {
         "StageIndex": 5,
         "Category": "スポーツ",
-        "Question": "オリンピックで最も多くの金メダルを獲得した女性アスリートは誰ですか？",
-        "CorrectAnswer": "ラリサ・ラチニナ",
-        "WrongAnswer1": "シモーネ・バイルズ",
-        "WrongAnswer2": "ナディア・コマネチ",
-        "WrongAnswer3": "ジャッキー・ジョイナー＝カーシー"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "テニスのグランドスラム大会で、最も多くのシングルスタイトルを獲得した選手は誰ですか？",
-        "CorrectAnswer": "マーガレット・コート",
-        "WrongAnswer1": "セリーナ・ウィリアムズ",
-        "WrongAnswer2": "シュテフィ・グラフ",
-        "WrongAnswer3": "マルチナ・ナブラチロワ"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "サッカーのワールドカップで、最も多くのゴールを記録した選手は誰ですか？",
-        "CorrectAnswer": "ミロスラフ・クローゼ",
-        "WrongAnswer1": "ペレ",
-        "WrongAnswer2": "ロナウド",
-        "WrongAnswer3": "ゲルト・ミュラー"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "NBAで、最も多くの得点を記録した選手は誰ですか？",
-        "CorrectAnswer": "カリーム・アブドゥル＝ジャバー",
-        "WrongAnswer1": "マイケル・ジョーダン",
-        "WrongAnswer2": "レブロン・ジェームズ",
-        "WrongAnswer3": "コービー・ブライアント"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "F1で、最も多くのワールドチャンピオンタイトルを獲得したドライバーは誰ですか？",
-        "CorrectAnswer": "ルイス・ハミルトン",
-        "WrongAnswer1": "ミハエル・シューマッハ",
-        "WrongAnswer2": "アイルトン・セナ",
-        "WrongAnswer3": "アラン・プロスト"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "ラグビーのワールドカップで、最も多く優勝した国はどこですか？",
-        "CorrectAnswer": "ニュージーランド",
-        "WrongAnswer1": "南アフリカ",
-        "WrongAnswer2": "オーストラリア",
-        "WrongAnswer3": "イングランド"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "ゴルフのメジャートーナメントで、最も多く優勝した選手は誰ですか？",
-        "CorrectAnswer": "ジャック・ニクラス",
-        "WrongAnswer1": "タイガー・ウッズ",
-        "WrongAnswer2": "アーノルド・パーマー",
-        "WrongAnswer3": "ベン・ホーガン"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "ボクシングで、最も多くの階級で世界チャンピオンになった選手は誰ですか？",
-        "CorrectAnswer": "マニー・パッキャオ",
-        "WrongAnswer1": "フロイド・メイウェザー",
-        "WrongAnswer2": "シュガー・レイ・レナード",
-        "WrongAnswer3": "オスカー・デ・ラ・ホーヤ"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "クリケットのワールドカップで、最も多く優勝した国はどこですか？",
-        "CorrectAnswer": "オーストラリア",
-        "WrongAnswer1": "インド",
-        "WrongAnswer2": "イングランド",
-        "WrongAnswer3": "西インド諸島"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "スポーツ",
-        "Question": "ツール・ド・フランスで、最も多く総合優勝した選手は誰ですか？",
-        "CorrectAnswer": "ランス・アームストロング",
-        "WrongAnswer1": "エディ・メルクス",
-        "WrongAnswer2": "クリス・フルーム",
-        "WrongAnswer3": "ベルナール・イノー"
-    },
+        "Question": "アメリカンフットボールで、攻撃側の選手がボールを持って相手のエンドゾーンに入ると何と呼ばれますか？",
+        "CorrectAnswer": "タッチダウン",
+        "WrongAnswer1": "フィールドゴール",
+        "WrongAnswer2": "セーフティ",
+        "WrongAnswer3": "パント"
+    }, 
     {
         "StageIndex": 0,
         "Category": "地理",
@@ -1569,7 +1236,7 @@
     {
         "StageIndex": 5,
         "Category": "地理",
-        "Question": "世界で最も人口が多い都市はどれですか？",
+        "Question": "世界で最も人口が多い都市圏はどれですか？",
         "CorrectAnswer": "東京",
         "WrongAnswer1": "ニューヨーク",
         "WrongAnswer2": "上海",
@@ -1668,15 +1335,6 @@
     {
         "StageIndex": 1,
         "Category": "地理",
-        "Question": "ヨーロッパで最も面積が大きい国はどこですか？",
-        "CorrectAnswer": "ロシア",
-        "WrongAnswer1": "フランス",
-        "WrongAnswer2": "ウクライナ",
-        "WrongAnswer3": "スペイン"
-    },
-    {
-        "StageIndex": 1,
-        "Category": "地理",
         "Question": "北アメリカで最も高い山はどれですか？",
         "CorrectAnswer": "デナリ",
         "WrongAnswer1": "ロッキー山脈",
@@ -1729,15 +1387,6 @@
         "WrongAnswer3": "ウフィツィ美術館"
     },
     {
-        "StageIndex": 0,
-        "Category": "アート",
-        "Question": "ピカソの絵画『ゲルニカ』が描かれた年はいつですか？",
-        "CorrectAnswer": "1937年",
-        "WrongAnswer1": "1927年",
-        "WrongAnswer2": "1947年",
-        "WrongAnswer3": "1957年"
-    },
-    {
         "StageIndex": 1,
         "Category": "アート",
         "Question": "レオナルド・ダ・ヴィンチの絵画『最後の晩餐』が描かれた場所はどこですか？",
@@ -1745,24 +1394,6 @@
         "WrongAnswer1": "ルーヴル美術館",
         "WrongAnswer2": "ウフィツィ美術館",
         "WrongAnswer3": "バチカン美術館"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "アート",
-        "Question": "ピカソの青の時代に描かれた有名な絵画はどれですか？",
-        "CorrectAnswer": "青いギター弾き",
-        "WrongAnswer1": "ゲルニカ",
-        "WrongAnswer2": "アヴィニョンの娘たち",
-        "WrongAnswer3": "泣く女"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "アート",
-        "Question": "フィンセント・ファン・ゴッホの有名な絵画『星月夜』が描かれた年はいつですか？",
-        "CorrectAnswer": "1889年",
-        "WrongAnswer1": "1888年",
-        "WrongAnswer2": "1890年",
-        "WrongAnswer3": "1887年"
     },
     {
         "StageIndex": 4,
@@ -1821,24 +1452,6 @@
     {
         "StageIndex": 6,
         "Category": "アート",
-        "Question": "レンブラントの有名な絵画『夜警』が描かれた年はいつですか？",
-        "CorrectAnswer": "1642年",
-        "WrongAnswer1": "1632年",
-        "WrongAnswer2": "1652年",
-        "WrongAnswer3": "1662年"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "アート",
-        "Question": "レオナルド・ダ・ヴィンチの絵画『モナ・リザ』の背景に描かれている風景はどこですか？",
-        "CorrectAnswer": "イタリアのトスカーナ地方",
-        "WrongAnswer1": "フランスのプロヴァンス地方",
-        "WrongAnswer2": "スペインのアンダルシア地方",
-        "WrongAnswer3": "ギリシャのサントリーニ島"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "アート",
         "Question": "フィンセント・ファン・ゴッホの絵画『ひまわり』が描かれた都市はどこですか？",
         "CorrectAnswer": "アルル",
         "WrongAnswer1": "パリ",
@@ -1857,15 +1470,6 @@
     {
         "StageIndex": 6,
         "Category": "アート",
-        "Question": "エドゥアール・マネの絵画『草上の昼食』が描かれた年はいつですか？",
-        "CorrectAnswer": "1863年",
-        "WrongAnswer1": "1873年",
-        "WrongAnswer2": "1853年",
-        "WrongAnswer3": "1883年"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "アート",
         "Question": "ジョルジュ・ブラックと共にキュビスムを創始した画家は誰ですか？",
         "CorrectAnswer": "パブロ・ピカソ",
         "WrongAnswer1": "アンリ・マティス",
@@ -1875,47 +1479,11 @@
     {
         "StageIndex": 6,
         "Category": "アート",
-        "Question": "アンリ・マティスの絵画『ダンス』が描かれた年はいつですか？",
-        "CorrectAnswer": "1910年",
-        "WrongAnswer1": "1900年",
-        "WrongAnswer2": "1920年",
-        "WrongAnswer3": "1930年"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "アート",
         "Question": "サルバドール・ダリの絵画『記憶の固執』が展示されている美術館はどこですか？",
         "CorrectAnswer": "ニューヨーク近代美術館",
         "WrongAnswer1": "ルーヴル美術館",
         "WrongAnswer2": "オルセー美術館",
         "WrongAnswer3": "プラド美術館"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "アート",
-        "Question": "エドガー・ドガの絵画『踊り子』が描かれた年はいつですか？",
-        "CorrectAnswer": "1874年",
-        "WrongAnswer1": "1864年",
-        "WrongAnswer2": "1884年",
-        "WrongAnswer3": "1894年"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "アート",
-        "Question": "ポール・ゴーギャンの絵画『タヒチの女たち』が描かれた年はいつですか？",
-        "CorrectAnswer": "1891年",
-        "WrongAnswer1": "1881年",
-        "WrongAnswer2": "1901年",
-        "WrongAnswer3": "1911年"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "アート",
-        "Question": "ジャクソン・ポロックの絵画『ナンバー1』が描かれた年はいつですか？",
-        "CorrectAnswer": "1948年",
-        "WrongAnswer1": "1938年",
-        "WrongAnswer2": "1958年",
-        "WrongAnswer3": "1968年"
     },
     {
         "StageIndex": 6,
@@ -2001,16 +1569,7 @@
     {
         "StageIndex": 3,
         "Category": "アニメ",
-        "Question": "『名探偵コナン』で、コナンの本名は何ですか？",
-        "CorrectAnswer": "工藤新一",
-        "WrongAnswer1": "毛利蘭",
-        "WrongAnswer2": "服部平次",
-        "WrongAnswer3": "安室透"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "アニメ",
-        "Question": "『新世紀エヴァンゲリオン』で、碇シンジが初めて搭乗するエヴァンゲリオンの機体番号は何ですか？",
+        "Question": "『新世紀エヴァンゲリオン』で、碇シンジが搭乗するエヴァンゲリオンの機体番号は何ですか？",
         "CorrectAnswer": "初号機",
         "WrongAnswer1": "零号機",
         "WrongAnswer2": "弐号機",
@@ -2100,7 +1659,7 @@
     {
         "StageIndex": 3,
         "Category": "アニメ",
-        "Question": "『新世紀エヴァンゲリオン』で、使徒第5使徒の名前は何ですか？",
+        "Question": "テレビ版『新世紀エヴァンゲリオン』で、使徒第5使徒の名前は何ですか？",
         "CorrectAnswer": "ラミエル",
         "WrongAnswer1": "サキエル",
         "WrongAnswer2": "シャムシエル",
@@ -2141,15 +1700,6 @@
         "WrongAnswer1": "ダイナ・フリッツ",
         "WrongAnswer2": "ミカサ・アッカーマン",
         "WrongAnswer3": "ヒストリア・レイス"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "アニメ",
-        "Question": "『ナルト』で、うちはマダラが最初に戦った五影会談の場所はどこですか？",
-        "CorrectAnswer": "鉄の国",
-        "WrongAnswer1": "木ノ葉隠れの里",
-        "WrongAnswer2": "砂隠れの里",
-        "WrongAnswer3": "霧隠れの里"
     },
     {
         "StageIndex": 3,
@@ -2215,15 +1765,6 @@
         "WrongAnswer3": "ストーンフィッシュ"
     },
     {
-        "StageIndex": 3,
-        "Category": "動物",
-        "Question": "世界で最も高く飛ぶ鳥は何ですか？",
-        "CorrectAnswer": "ホシガラス",
-        "WrongAnswer1": "ハクトウワシ",
-        "WrongAnswer2": "コンドル",
-        "WrongAnswer3": "アホウドリ"
-    },
-    {
         "StageIndex": 4,
         "Category": "動物",
         "Question": "世界で最も深く潜る哺乳類は何ですか？",
@@ -2233,46 +1774,10 @@
         "WrongAnswer3": "アザラシ"
     },
     {
-        "StageIndex": 5,
-        "Category": "動物",
-        "Question": "世界で最も多くの言葉を覚えることができる鳥は何ですか？",
-        "CorrectAnswer": "ヨウム",
-        "WrongAnswer1": "オウム",
-        "WrongAnswer2": "カラス",
-        "WrongAnswer3": "インコ"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "動物",
-        "Question": "世界で最も小さな哺乳類は何ですか？",
-        "CorrectAnswer": "キティブタバナコウモリ",
-        "WrongAnswer1": "ハツカネズミ",
-        "WrongAnswer2": "ピグミーマーモセット",
-        "WrongAnswer3": "ハリネズミ"
-    },
-    {
-        "StageIndex": 7,
-        "Category": "動物",
-        "Question": "世界で最も長い寿命を持つ哺乳類は何ですか？",
-        "CorrectAnswer": "ホッキョククジラ",
-        "WrongAnswer1": "アフリカゾウ",
-        "WrongAnswer2": "ガラパゴスゾウガメ",
-        "WrongAnswer3": "オウム"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "動物",
-        "Question": "世界で最も長い寿命を持つ無脊椎動物は何ですか？",
-        "CorrectAnswer": "アイスランドガイ",
-        "WrongAnswer1": "ホシムシ",
-        "WrongAnswer2": "オウムガイ",
-        "WrongAnswer3": "カブトガニ"
-    },
-    {
         "StageIndex": 1,
         "Category": "動物",
         "Question": "世界で最も深く潜る魚は何ですか？",
-        "CorrectAnswer": "マリアナスネイルフィッシュ",
+        "CorrectAnswer": "スネイルフィッシュ",
         "WrongAnswer1": "シーラカンス",
         "WrongAnswer2": "オニイトマキエイ",
         "WrongAnswer3": "メガマウス"
@@ -2296,15 +1801,6 @@
         "WrongAnswer3": "イルカ"
     },
     {
-        "StageIndex": 4,
-        "Category": "動物",
-        "Question": "世界で最も長い舌を持つ哺乳類は何ですか？",
-        "CorrectAnswer": "アリクイ",
-        "WrongAnswer1": "キリン",
-        "WrongAnswer2": "オオカミ",
-        "WrongAnswer3": "コウモリ"
-    },
-    {
         "StageIndex": 5,
         "Category": "動物",
         "Question": "世界で最も多くの種類が存在する昆虫のグループは何ですか？",
@@ -2321,51 +1817,6 @@
         "WrongAnswer1": "ハクトウワシ",
         "WrongAnswer2": "コンドル",
         "WrongAnswer3": "アホウドリ"
-    },
-    {
-        "StageIndex": 7,
-        "Category": "動物",
-        "Question": "世界で最も大きな翼幅を持つ鳥は何ですか？",
-        "CorrectAnswer": "ワタリアホウドリ",
-        "WrongAnswer1": "コンドル",
-        "WrongAnswer2": "ハクトウワシ",
-        "WrongAnswer3": "オオワシ"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "動物",
-        "Question": "世界で最も長い寿命を持つ鳥は何ですか？",
-        "CorrectAnswer": "アホウドリ",
-        "WrongAnswer1": "オウム",
-        "WrongAnswer2": "カラス",
-        "WrongAnswer3": "ハクトウワシ"
-    },
-    {
-        "StageIndex": 1,
-        "Category": "動物",
-        "Question": "世界で最も多くの種類が存在する哺乳類のグループは何ですか？",
-        "CorrectAnswer": "コウモリ",
-        "WrongAnswer1": "ネズミ",
-        "WrongAnswer2": "サル",
-        "WrongAnswer3": "クジラ"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "ボカロ",
-        "Question": "初音ミクのデビュー曲として知られる曲はどれですか？",
-        "CorrectAnswer": "みくみくにしてあげる♪【してやんよ】",
-        "WrongAnswer1": "ワールドイズマイン",
-        "WrongAnswer2": "千本桜",
-        "WrongAnswer3": "ロミオとシンデレラ"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "ボカロ",
-        "Question": "鏡音リン・レンの誕生日はいつですか？",
-        "CorrectAnswer": "12月27日",
-        "WrongAnswer1": "1月1日",
-        "WrongAnswer2": "3月9日",
-        "WrongAnswer3": "8月31日"
     },
     {
         "StageIndex": 4,
@@ -2476,48 +1927,12 @@
         "WrongAnswer3": "DECO*27"
     },
     {
-        "StageIndex": 0,
-        "Category": "ボカロ",
-        "Question": "『アカツキアライヴァル』を歌うボーカロイドは誰ですか？",
-        "CorrectAnswer": "GUMIと鏡音リン",
-        "WrongAnswer1": "初音ミクと巡音ルカ",
-        "WrongAnswer2": "KAITOとMEIKO",
-        "WrongAnswer3": "鏡音レンとGUMI"
-    },
-    {
         "StageIndex": 1,
         "Category": "ボカロ",
         "Question": "『ゴーストルール』を作曲したボカロPは誰ですか？",
         "CorrectAnswer": "DECO*27",
         "WrongAnswer1": "ryo",
         "WrongAnswer2": "kz",
-        "WrongAnswer3": "wowaka"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "ボカロ",
-        "Question": "『エイリアンエイリアン』を歌うボーカロイドは誰ですか？",
-        "CorrectAnswer": "初音ミク",
-        "WrongAnswer1": "鏡音リン",
-        "WrongAnswer2": "巡音ルカ",
-        "WrongAnswer3": "GUMI"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "ボカロ",
-        "Question": "『ヒビカセ』を作曲したボカロPは誰ですか？",
-        "CorrectAnswer": "Giga",
-        "WrongAnswer1": "ryo",
-        "WrongAnswer2": "kz",
-        "WrongAnswer3": "DECO*27"
-    },
-    {
-        "StageIndex": 4,
-        "Category": "ボカロ",
-        "Question": "『アスノヨゾラ哨戒班』を作曲したボカロPは誰ですか？",
-        "CorrectAnswer": "Orangestar",
-        "WrongAnswer1": "kz",
-        "WrongAnswer2": "DECO*27",
         "WrongAnswer3": "wowaka"
     },
     {
@@ -2557,67 +1972,13 @@
         "WrongAnswer3": "幻想結界"
     },
     {
-        "StageIndex": 1,
-        "Category": "東方Project",
-        "Question": "東方Projectの主人公である博麗霊夢の職業は何ですか？",
-        "CorrectAnswer": "巫女",
-        "WrongAnswer1": "魔法使い",
-        "WrongAnswer2": "忍者",
-        "WrongAnswer3": "戦士"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "東方Project",
-        "Question": "霧雨魔理沙の得意な魔法は何ですか？",
-        "CorrectAnswer": "光魔法",
-        "WrongAnswer1": "火魔法",
-        "WrongAnswer2": "水魔法",
-        "WrongAnswer3": "風魔法"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "東方Project",
-        "Question": "紅魔館の主である吸血鬼の名前は何ですか？",
-        "CorrectAnswer": "レミリア・スカーレット",
-        "WrongAnswer1": "フランドール・スカーレット",
-        "WrongAnswer2": "パチュリー・ノーレッジ",
-        "WrongAnswer3": "十六夜咲夜"
-    },
-    {
         "StageIndex": 4,
         "Category": "東方Project",
         "Question": "八雲紫の能力は何ですか？",
-        "CorrectAnswer": "境界を操る能力",
-        "WrongAnswer1": "時間を操る能力",
-        "WrongAnswer2": "空間を操る能力",
-        "WrongAnswer3": "夢を操る能力"
-    },
-    {
-        "StageIndex": 5,
-        "Category": "東方Project",
-        "Question": "東方Projectの舞台となる幻想郷を管理しているのは誰ですか？",
-        "CorrectAnswer": "博麗霊夢",
-        "WrongAnswer1": "霧雨魔理沙",
-        "WrongAnswer2": "八雲紫",
-        "WrongAnswer3": "レミリア・スカーレット"
-    },
-    {
-        "StageIndex": 6,
-        "Category": "東方Project",
-        "Question": "東方Projectの音楽を担当しているのは誰ですか？",
-        "CorrectAnswer": "ZUN",
-        "WrongAnswer1": "Yoko Shimomura",
-        "WrongAnswer2": "Nobuo Uematsu",
-        "WrongAnswer3": "Koji Kondo"
-    },
-    {
-        "StageIndex": 7,
-        "Category": "東方Project",
-        "Question": "博麗神社の巫女である博麗霊夢のライバルは誰ですか？",
-        "CorrectAnswer": "霧雨魔理沙",
-        "WrongAnswer1": "八雲紫",
-        "WrongAnswer2": "レミリア・スカーレット",
-        "WrongAnswer3": "十六夜咲夜"
+        "CorrectAnswer": "境界を操る程度の能力",
+        "WrongAnswer1": "時間を操る程度の能力",
+        "WrongAnswer2": "空間を操る程度の能力",
+        "WrongAnswer3": "夢を操る程度の能力"
     },
     {
         "StageIndex": 0,
@@ -2659,10 +2020,10 @@
         "StageIndex": 2,
         "Category": "東方Project",
         "Question": "東方Projectのキャラクターである十六夜咲夜の能力は何ですか？",
-        "CorrectAnswer": "時間を操る能力",
-        "WrongAnswer1": "空間を操る能力",
-        "WrongAnswer2": "夢を操る能力",
-        "WrongAnswer3": "境界を操る能力"
+        "CorrectAnswer": "時間を操る程度の能力",
+        "WrongAnswer1": "空間を操る程度の能力",
+        "WrongAnswer2": "夢を操る程度の能力",
+        "WrongAnswer3": "境界を操る程度の能力"
     },
     {
         "StageIndex": 2,
@@ -2699,15 +2060,6 @@
         "WrongAnswer1": "妖精",
         "WrongAnswer2": "人間",
         "WrongAnswer3": "吸血鬼"
-    },
-    {
-        "StageIndex": 2,
-        "Category": "東方Project",
-        "Question": "東方Projectのキャラクターであるパチュリー・ノーレッジの得意な魔法は何ですか？",
-        "CorrectAnswer": "元素魔法",
-        "WrongAnswer1": "光魔法",
-        "WrongAnswer2": "闇魔法",
-        "WrongAnswer3": "時間魔法"
     },
     {
         "StageIndex": 2,
@@ -2800,15 +2152,6 @@
         "WrongAnswer3": "アンギラス"
     },
     {
-        "StageIndex": 2,
-        "Category": "特撮",
-        "Question": "スーパー戦隊シリーズで初めてロボットが登場したのはどの作品ですか？",
-        "CorrectAnswer": "バトルフィーバーJ",
-        "WrongAnswer1": "ジャッカー電撃隊",
-        "WrongAnswer2": "ゴーグルファイブ",
-        "WrongAnswer3": "デンジマン"
-    },
-    {
         "StageIndex": 3,
         "Category": "特撮",
         "Question": "ウルトラマンタロウの父親の名前は何ですか？",
@@ -2847,20 +2190,11 @@
     {
         "StageIndex": 7,
         "Category": "特撮",
-        "Question": "ゴジラシリーズで初めて登場したメカゴジラの操縦者は誰ですか？",
+        "Question": "ゴジラシリーズで初めて登場したメカゴジラを制作した宇宙人は？",
         "CorrectAnswer": "ブラックホール第三惑星人",
         "WrongAnswer1": "X星人",
         "WrongAnswer2": "M宇宙ハンター星雲人",
         "WrongAnswer3": "シートピア人"
-    },
-    {
-        "StageIndex": 0,
-        "Category": "特撮",
-        "Question": "スーパー戦隊シリーズで初めて女性リーダーが登場した作品は何ですか？",
-        "CorrectAnswer": "超力戦隊オーレンジャー",
-        "WrongAnswer1": "地球戦隊ファイブマン",
-        "WrongAnswer2": "鳥人戦隊ジェットマン",
-        "WrongAnswer3": "忍者戦隊カクレンジャー"
     },
     {
         "StageIndex": 1,
@@ -2874,29 +2208,11 @@
     {
         "StageIndex": 3,
         "Category": "特撮",
-        "Question": "仮面ライダーアギトの主人公、津上翔一が失った記憶を取り戻すために使ったアイテムは何ですか？",
-        "CorrectAnswer": "アギトのベルト",
-        "WrongAnswer1": "アギトのリング",
-        "WrongAnswer2": "アギトのブレスレット",
-        "WrongAnswer3": "アギトのペンダント"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "特撮",
         "Question": "ゴジラシリーズで初めてカラー作品として制作された映画は何ですか？",
         "CorrectAnswer": "キングコング対ゴジラ",
         "WrongAnswer1": "ゴジラの逆襲",
         "WrongAnswer2": "モスラ対ゴジラ",
         "WrongAnswer3": "怪獣大戦争"
-    },
-    {
-        "StageIndex": 3,
-        "Category": "特撮",
-        "Question": "スーパー戦隊シリーズで初めて登場した6人目の戦士は誰ですか？",
-        "CorrectAnswer": "ドラゴンレンジャー",
-        "WrongAnswer1": "タイムファイヤー",
-        "WrongAnswer2": "ゴーオンウィングス",
-        "WrongAnswer3": "シンケンゴールド"
     },
     {
         "StageIndex": 3,
@@ -2918,8 +2234,8 @@
     },
     {
         "StageIndex": 0,
-        "Category": "個人",
-        "Question": "真琴さんが一番好きな作家は？",
+        "Category": "個人的質問",
+        "Question": "真琴さん(解凍中の女の子)が一番好きな作家は？",
         "CorrectAnswer": "太宰治",
         "WrongAnswer1": "夏目漱石",
         "WrongAnswer2": "芥川龍之介",
@@ -2927,8 +2243,8 @@
     },
     {
         "StageIndex": 0,
-        "Category": "個人",
-        "Question": "真琴さんがよく行く場所は？",
+        "Category": "個人的質問",
+        "Question": "真琴さん(解凍中の女の子)がよく行く場所は？",
         "CorrectAnswer": "図書館",
         "WrongAnswer1": "公園",
         "WrongAnswer2": "ショッピングモール",
@@ -2936,8 +2252,8 @@
     },
     {
         "StageIndex": 0,
-        "Category": "個人",
-        "Question": "真琴さんが最近読んだ本は？",
+        "Category": "個人的質問",
+        "Question": "真琴さん(解凍中の女の子)が最近読んだ本は？",
         "CorrectAnswer": "人間失格",
         "WrongAnswer1": "坊っちゃん",
         "WrongAnswer2": "羅生門",
@@ -2945,8 +2261,8 @@
     },
     {
         "StageIndex": 0,
-        "Category": "個人",
-        "Question": "真琴さんが好きな飲み物は？",
+        "Category": "個人的質問",
+        "Question": "真琴さん(解凍中の女の子)が好きな飲み物は？",
         "CorrectAnswer": "抹茶ラテ",
         "WrongAnswer1": "コーヒー",
         "WrongAnswer2": "紅茶",
@@ -2954,8 +2270,8 @@
     },
     {
         "StageIndex": 0,
-        "Category": "個人",
-        "Question": "真琴さんが憧れている職業は？",
+        "Category": "個人的質問",
+        "Question": "真琴さん(解凍中の女の子)が憧れている職業は？",
         "CorrectAnswer": "図書館司書",
         "WrongAnswer1": "教師",
         "WrongAnswer2": "小説家",
@@ -2963,8 +2279,8 @@
     },
     {
         "StageIndex": 1,
-        "Category": "個人",
-        "Question": "美優さんが一番好きな花は？",
+        "Category": "個人的質問",
+        "Question": "美優さん(解凍中の女の子)が一番好きな花は？",
         "CorrectAnswer": "ユリ",
         "WrongAnswer1": "チューリップ",
         "WrongAnswer2": "カーネーション",
@@ -2972,8 +2288,8 @@
     },
     {
         "StageIndex": 1,
-        "Category": "個人",
-        "Question": "美優さんが学生時代に所属していた部活動は？",
+        "Category": "個人的質問",
+        "Question": "美優さん(解凍中の女の子)が学生時代に所属していた部活動は？",
         "CorrectAnswer": "クイズサークル",
         "WrongAnswer1": "バドミントン部",
         "WrongAnswer2": "演劇部",
@@ -2981,8 +2297,8 @@
     },
     {
         "StageIndex": 1,
-        "Category": "個人",
-        "Question": "美優さんが得意な教科は？",
+        "Category": "個人的質問",
+        "Question": "美優さん(解凍中の女の子)が得意な教科は？",
         "CorrectAnswer": "地理",
         "WrongAnswer1": "数学",
         "WrongAnswer2": "化学",
@@ -2990,8 +2306,8 @@
     },
     {
         "StageIndex": 1,
-        "Category": "個人",
-        "Question": "美優さんが好きな休日の過ごし方は？",
+        "Category": "個人的質問",
+        "Question": "美優さん(解凍中の女の子)が好きな休日の過ごし方は？",
         "CorrectAnswer": "カフェで読書",
         "WrongAnswer1": "アウトドアでキャンプ",
         "WrongAnswer2": "スポーツジムで運動",
@@ -2999,8 +2315,8 @@
     },
     {
         "StageIndex": 1,
-        "Category": "個人",
-        "Question": "美優さんが旅行したいと思っている場所は？",
+        "Category": "個人的質問",
+        "Question": "美優さん(解凍中の女の子)が旅行したいと思っている場所は？",
         "CorrectAnswer": "スイス",
         "WrongAnswer1": "イタリア",
         "WrongAnswer2": "アメリカ",
@@ -3008,8 +2324,8 @@
     },
     {
         "StageIndex": 2,
-        "Category": "個人",
-        "Question": "凛花さんが一番好きなゲームは？",
+        "Category": "個人的質問",
+        "Question": "凛花さん(解凍中の女の子)が一番好きなゲームは？",
         "CorrectAnswer": "マリオカート",
         "WrongAnswer1": "どうぶつの森",
         "WrongAnswer2": "スプラトゥーン",
@@ -3017,8 +2333,8 @@
     },
     {
         "StageIndex": 2,
-        "Category": "個人",
-        "Question": "凛花さんが好きな動物は？",
+        "Category": "個人的質問",
+        "Question": "凛花さん(解凍中の女の子)が好きな動物は？",
         "CorrectAnswer": "柴犬",
         "WrongAnswer1": "猫",
         "WrongAnswer2": "ハムスター",
@@ -3026,8 +2342,8 @@
     },
     {
         "StageIndex": 2,
-        "Category": "個人",
-        "Question": "凛花さんが好きな色は？",
+        "Category": "個人的質問",
+        "Question": "凛花さん(解凍中の女の子)が好きな色は？",
         "CorrectAnswer": "赤",
         "WrongAnswer1": "青",
         "WrongAnswer2": "緑",
@@ -3035,8 +2351,8 @@
     },
     {
         "StageIndex": 2,
-        "Category": "個人",
-        "Question": "凛花さんが学校で得意な科目は？",
+        "Category": "個人的質問",
+        "Question": "凛花さん(解凍中の女の子)が学校で得意な科目は？",
         "CorrectAnswer": "図工",
         "WrongAnswer1": "国語",
         "WrongAnswer2": "算数",
@@ -3044,8 +2360,8 @@
     },
     {
         "StageIndex": 2,
-        "Category": "個人",
-        "Question": "凛花さんが将来なりたい職業は？",
+        "Category": "個人的質問",
+        "Question": "凛花さん(解凍中の女の子)が将来なりたい職業は？",
         "CorrectAnswer": "ゲームクリエイター",
         "WrongAnswer1": "先生",
         "WrongAnswer2": "看護師",
@@ -3053,8 +2369,8 @@
     },
     {
         "StageIndex": 3,
-        "Category": "個人",
-        "Question": "紗奈さんが一番好きなアニメは？",
+        "Category": "個人的質問",
+        "Question": "紗奈さん(解凍中の女の子)が一番好きなアニメは？",
         "CorrectAnswer": "鬼滅の刃",
         "WrongAnswer1": "進撃の巨人",
         "WrongAnswer2": "ポケットモンスター",
@@ -3062,8 +2378,8 @@
     },
     {
         "StageIndex": 3,
-        "Category": "個人",
-        "Question": "紗奈さんの愛犬「コロ」の好きなおやつは？",
+        "Category": "個人的質問",
+        "Question": "紗奈さん(解凍中の女の子)の愛犬「コロ」の好きなおやつは？",
         "CorrectAnswer": "さつまいもチップス",
         "WrongAnswer1": "骨型ビスケット",
         "WrongAnswer2": "ジャーキー",
@@ -3071,8 +2387,8 @@
     },
     {
         "StageIndex": 3,
-        "Category": "個人",
-        "Question": "紗奈さんが好きな学校の行事は？",
+        "Category": "個人的質問",
+        "Question": "紗奈さん(解凍中の女の子)が好きな学校の行事は？",
         "CorrectAnswer": "体育祭",
         "WrongAnswer1": "文化祭",
         "WrongAnswer2": "修学旅行",
@@ -3080,8 +2396,8 @@
     },
     {
         "StageIndex": 3,
-        "Category": "個人",
-        "Question": "紗奈さんが苦手な食べ物は？",
+        "Category": "個人的質問",
+        "Question": "紗奈さん(解凍中の女の子)が苦手な食べ物は？",
         "CorrectAnswer": "ピーマン",
         "WrongAnswer1": "ナス",
         "WrongAnswer2": "トマト",
@@ -3089,8 +2405,8 @@
     },
     {
         "StageIndex": 3,
-        "Category": "個人",
-        "Question": "紗奈さんが最近ハマっている趣味は？",
+        "Category": "個人的質問",
+        "Question": "紗奈さん(解凍中の女の子)が最近ハマっている趣味は？",
         "CorrectAnswer": "アニメグッズのコレクション",
         "WrongAnswer1": "ネット小説を書く",
         "WrongAnswer2": "ゲーム実況を見る",
@@ -3098,8 +2414,8 @@
     },
     {
         "StageIndex": 4,
-        "Category": "個人",
-        "Question": "奈々さんが一番好きな音楽のジャンルは？",
+        "Category": "個人的質問",
+        "Question": "奈々さん(解凍中の女の子)が一番好きな音楽のジャンルは？",
         "CorrectAnswer": "ポップス",
         "WrongAnswer1": "ロック",
         "WrongAnswer2": "クラシック",
@@ -3107,8 +2423,8 @@
     },
     {
         "StageIndex": 4,
-        "Category": "個人",
-        "Question": "奈々さんが憧れているダンサーは？",
+        "Category": "個人的質問",
+        "Question": "奈々さん(解凍中の女の子)が憧れているダンサーは？",
         "CorrectAnswer": "三浦大知",
         "WrongAnswer1": "平手友梨奈",
         "WrongAnswer2": "リサ（BLACKPINK）",
@@ -3116,8 +2432,8 @@
     },
     {
         "StageIndex": 4,
-        "Category": "個人",
-        "Question": "奈々さんがよく練習しているダンスのスタイルは？",
+        "Category": "個人的質問",
+        "Question": "奈々さん(解凍中の女の子)がよく練習しているダンスのスタイルは？",
         "CorrectAnswer": "ヒップホップ",
         "WrongAnswer1": "バレエ",
         "WrongAnswer2": "ジャズダンス",
@@ -3125,8 +2441,8 @@
     },
     {
         "StageIndex": 4,
-        "Category": "個人",
-        "Question": "奈々さんが好きなスポーツは？",
+        "Category": "個人的質問",
+        "Question": "奈々さん(解凍中の女の子)が好きなスポーツは？",
         "CorrectAnswer": "ビーチバレー",
         "WrongAnswer1": "サッカー",
         "WrongAnswer2": "バスケットボール",
@@ -3134,8 +2450,8 @@
     },
     {
         "StageIndex": 4,
-        "Category": "個人",
-        "Question": "奈々さんが地元沖縄で好きな場所は？",
+        "Category": "個人的質問",
+        "Question": "奈々さん(解凍中の女の子)が地元沖縄で好きな場所は？",
         "CorrectAnswer": "美ら海水族館",
         "WrongAnswer1": "首里城",
         "WrongAnswer2": "古宇利島",
@@ -3143,8 +2459,8 @@
     },
     {
         "StageIndex": 5,
-        "Category": "個人",
-        "Question": "涼香さんが一番好きなスポーツは？",
+        "Category": "個人的質問",
+        "Question": "涼香さん(解凍中の女の子)が一番好きなスポーツは？",
         "CorrectAnswer": "陸上競技",
         "WrongAnswer1": "サッカー",
         "WrongAnswer2": "バスケットボール",
@@ -3152,8 +2468,8 @@
     },
     {
         "StageIndex": 5,
-        "Category": "個人",
-        "Question": "涼香さんが大学時代に専門だった種目は？",
+        "Category": "個人的質問",
+        "Question": "涼香さん(解凍中の女の子)が大学時代に専門だった種目は？",
         "CorrectAnswer": "短距離走",
         "WrongAnswer1": "走り幅跳び",
         "WrongAnswer2": "マラソン",
@@ -3161,8 +2477,8 @@
     },
     {
         "StageIndex": 5,
-        "Category": "個人",
-        "Question": "涼香さんが憧れているアスリートは？",
+        "Category": "個人的質問",
+        "Question": "涼香さん(解凍中の女の子)が憧れているアスリートは？",
         "CorrectAnswer": "ボルト",
         "WrongAnswer1": "大谷翔平",
         "WrongAnswer2": "内村航平",
@@ -3170,8 +2486,8 @@
     },
     {
         "StageIndex": 5,
-        "Category": "個人",
-        "Question": "涼香さんが休日によく行く場所は？",
+        "Category": "個人的質問",
+        "Question": "涼香さん(解凍中の女の子)が休日によく行く場所は？",
         "CorrectAnswer": "フィットネスジム",
         "WrongAnswer1": "映画館",
         "WrongAnswer2": "図書館",
@@ -3179,8 +2495,8 @@
     },
     {
         "StageIndex": 5,
-        "Category": "個人",
-        "Question": "涼香さんがスポーツ以外で興味を持っていることは？",
+        "Category": "個人的質問",
+        "Question": "涼香さん(解凍中の女の子)がスポーツ以外で興味を持っていることは？",
         "CorrectAnswer": "アウトドアキャンプ",
         "WrongAnswer1": "料理",
         "WrongAnswer2": "読書",
@@ -3188,8 +2504,8 @@
     },
     {
         "StageIndex": 6,
-        "Category": "個人",
-        "Question": "ソフィーさんが一番好きな画家は？",
+        "Category": "個人的質問",
+        "Question": "ソフィーさん(解凍中の女の子)が一番好きな画家は？",
         "CorrectAnswer": "モネ",
         "WrongAnswer1": "ゴッホ",
         "WrongAnswer2": "ピカソ",
@@ -3197,8 +2513,8 @@
     },
     {
         "StageIndex": 6,
-        "Category": "個人",
-        "Question": "ソフィーさんがよく使う絵の具の色は？",
+        "Category": "個人的質問",
+        "Question": "ソフィーさん(解凍中の女の子)がよく使う絵の具の色は？",
         "CorrectAnswer": "青",
         "WrongAnswer1": "赤",
         "WrongAnswer2": "黄色",
@@ -3206,8 +2522,8 @@
     },
     {
         "StageIndex": 6,
-        "Category": "個人",
-        "Question": "ソフィーさんが描くのが得意なモチーフは？",
+        "Category": "個人的質問",
+        "Question": "ソフィーさん(解凍中の女の子)が描くのが得意なモチーフは？",
         "CorrectAnswer": "花",
         "WrongAnswer1": "風景",
         "WrongAnswer2": "動物",
@@ -3215,8 +2531,8 @@
     },
     {
         "StageIndex": 6,
-        "Category": "個人",
-        "Question": "ソフィーさんが好きな美術館は？",
+        "Category": "個人的質問",
+        "Question": "ソフィーさん(解凍中の女の子)が好きな美術館は？",
         "CorrectAnswer": "ルーヴル美術館",
         "WrongAnswer1": "オルセー美術館",
         "WrongAnswer2": "メトロポリタン美術館",
@@ -3224,8 +2540,8 @@
     },
     {
         "StageIndex": 6,
-        "Category": "個人",
-        "Question": "ソフィーさんが将来なりたい職業は？",
+        "Category": "個人的質問",
+        "Question": "ソフィーさん(解凍中の女の子)が将来なりたい職業は？",
         "CorrectAnswer": "画家",
         "WrongAnswer1": "デザイナー",
         "WrongAnswer2": "美術教師",
@@ -3233,8 +2549,8 @@
     },
     {
         "StageIndex": 7,
-        "Category": "個人",
-        "Question": "千紗さんが一番好きな映画のジャンルは？",
+        "Category": "個人的質問",
+        "Question": "千紗さん(解凍中の女の子)が一番好きな映画のジャンルは？",
         "CorrectAnswer": "ファンタジー",
         "WrongAnswer1": "アクション",
         "WrongAnswer2": "ホラー",
@@ -3242,8 +2558,8 @@
     },
     {
         "StageIndex": 7,
-        "Category": "個人",
-        "Question": "千紗さんが好きな映画監督は？",
+        "Category": "個人的質問",
+        "Question": "千紗さん(解凍中の女の子)が好きな映画監督は？",
         "CorrectAnswer": "宮崎駿",
         "WrongAnswer1": "スティーブン・スピルバーグ",
         "WrongAnswer2": "クリストファー・ノーラン",
@@ -3251,8 +2567,8 @@
     },
     {
         "StageIndex": 7,
-        "Category": "個人",
-        "Question": "千紗さんがよく見返す映画は？",
+        "Category": "個人的質問",
+        "Question": "千紗さん(解凍中の女の子)がよく見返す映画は？",
         "CorrectAnswer": "千と千尋の神隠し",
         "WrongAnswer1": "ハリー・ポッターと賢者の石",
         "WrongAnswer2": "スター・ウォーズ エピソード4",
@@ -3260,8 +2576,8 @@
     },
     {
         "StageIndex": 7,
-        "Category": "個人",
-        "Question": "千紗さんが映画を観るときに欠かせないものは？",
+        "Category": "個人的質問",
+        "Question": "千紗さん(解凍中の女の子)が映画を観るときに欠かせないものは？",
         "CorrectAnswer": "ポップコーン",
         "WrongAnswer1": "ジュース",
         "WrongAnswer2": "キャンディー",
@@ -3269,8 +2585,8 @@
     },
     {
         "StageIndex": 7,
-        "Category": "個人",
-        "Question": "千紗さんが将来なりたい職業は？",
+        "Category": "個人的質問",
+        "Question": "千紗さん(解凍中の女の子)が将来なりたい職業は？",
         "CorrectAnswer": "映画評論家",
         "WrongAnswer1": "映画監督",
         "WrongAnswer2": "俳優",
