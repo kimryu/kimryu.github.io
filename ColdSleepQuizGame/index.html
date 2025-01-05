@@ -1,15 +1,57 @@
-<!DOCTYPE html>
-<html lang="en-us">
-
 <head>
   <meta charset="utf-8">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Unity Web Player | ColdSleepQuizGame</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      text-align: center;
+    }
+
+    h1 {
+      background-color: #231F20;
+      color: #fff;
+      padding: 15px 0;
+      margin: 0;
+      font-size: 1.8rem;
+    }
+
+    .section {
+      padding: 20px 30px;
+      margin: 20px auto;
+      max-width: 800px;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      text-align: left;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    a {
+      color: #1e90ff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    canvas {
+      display: block;
+      margin: 20px auto;
+      background: #231F20;
+    }
+  </style>
 </head>
 
-<body style="text-align: center; padding: 0; border: 0; margin: 0;">
-  <canvas id="unity-canvas" width=1280 height=720 tabindex="-1"
-    style="width: 1280px; height: 720px; background: #231F20"></canvas>
+<body>
+  <canvas id="unity-canvas" width="1280" height="720" tabindex="-1"></canvas>
   <script src="Build/ColdSleepQuizGame.loader.js"></script>
   <script>
     if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
@@ -41,36 +83,47 @@
     });
   </script>
   <h1>初めに</h1>
-  <Div Align="left" style="padding: 30px">
-    これは、冷凍睡眠している女の子を助け出すゲームです。<br>
-    このゲームは、１８歳以上でかつ自己の言動に責任を負える方を対象としています。<br>
-    この条件に当てはまらない方はこのページを閉じてください。<br>
-    当ページでは、このような表現を含むゲームを創作活動の一環として公開していますが、現実社会における反社会的な思想や犯罪行為を助長することを目的としたものではありません。<br>
-    以上をご理解いただいたうえで、ゲームをお楽しみください。<br>
-  </Div>
+  <div class="section">
+    <p>これは、冷凍睡眠している女の子を助け出すゲームです。</p>
+    <p>
+      このゲームは、18歳以上でかつ自己の言動に責任を負える方を対象としています。<br>
+      この条件に当てはまらない方はこのページを閉じてください。
+    </p>
+    <p>
+      当ページでは、このような表現を含むゲームを創作活動の一環として公開していますが、
+      現実社会における反社会的な思想や犯罪行為を助長することを目的としたものではありません。
+    </p>
+    <p>以上をご理解いただいたうえで、ゲームをお楽しみください。</p>
+  </div>
 
   <h1>制限事項</h1>
-  <Div Align="left" style="padding: 30px">
+  <div class="section">
     <ul>
-      <li>日本語表示のみです(Japanese Only!)</li>
+      <li>日本語表示のみです (Japanese Only!)</li>
       <li>PCでのプレイを想定しており、スマホなどでは正しく表示されません。</li>
     </ul>
-  </Div>
+  </div>
 
   <h1>その他</h1>
-  <Div Align="left" style="padding: 30px">
-  クイズ内容については十分に確認を行った上で出題しておりますが、万が一内容に誤りがございました際には、何卒ご容赦いただけますようお願い申し上げます。<br>
-  どうしても解けない場合は、passwordに「KANTAN」と入力するとEasyModeに切り替わります。<br>
-  ご意見や不具合がありましたらpixivの作品紹介ページのコメントでお願いします。<br>
-  <a href="https://www.pixiv.net/artworks/125256265">https://www.pixiv.net/artworks/125256265</a>
-  </Div>
+  <div class="section">
+    <p>
+      クイズ内容については十分に確認を行った上で出題しておりますが、万が一内容に誤りがございました際には、何卒ご容赦いただけますようお願い申し上げます。
+    </p>
+    <p>
+      どうしても解けない場合は、passwordに「KANTAN」と入力するとEasyModeに切り替わります。
+    </p>
+    <p>
+      ご意見や不具合がありましたらpixivの作品紹介ページのコメントでお願いします。<br>
+      <a href="https://www.pixiv.net/artworks/125256265" target="_blank">https://www.pixiv.net/artworks/125256265</a>
+    </p>
+  </div>
 
   <h1>更新履歴</h1>
-  <Div Align="left" style="padding: 30px">
+  <div class="section">
     <ul>
       <li>V1.0 : 公開 (2025/01/05)</li>
     </ul>
-  </Div>
+  </div>
 </body>
 
 </html>
