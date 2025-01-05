@@ -17,8 +17,180 @@
         "variations": "ImgGirl00_Cold_OK, ImgGirl00_Cold_NG"
     },
     {
-        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Cold_NG",
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Fuku",
         "variations": "ImgGirl00_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl00_Pic",
+        "variations": "ImgGirl00_Pic"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl01_Cold",
+        "variations": "ImgGirl01_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl01_Cold_Kaitou1",
+        "variations": "ImgGirl01_Cold_Kaitou1, ImgGirl01_Cold_Kaitou2, ImgGirl01_Cold_Kaitou3, ImgGirl01_Cold_Kaitou4, ImgGirl01_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl01_Cold_Nama",
+        "variations": "ImgGirl01_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl01_Cold_OK",
+        "variations": "ImgGirl01_Cold_OK, ImgGirl01_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl01_Fuku",
+        "variations": "ImgGirl01_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl01_Pic",
+        "variations": "ImgGirl01_Pic"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl02_Cold",
+        "variations": "ImgGirl02_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl02_Cold_Kaitou1",
+        "variations": "ImgGirl02_Cold_Kaitou1, ImgGirl02_Cold_Kaitou2, ImgGirl02_Cold_Kaitou3, ImgGirl02_Cold_Kaitou4, ImgGirl02_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl02_Cold_Nama",
+        "variations": "ImgGirl02_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl02_Cold_OK",
+        "variations": "ImgGirl02_Cold_OK, ImgGirl02_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl02_Fuku",
+        "variations": "ImgGirl02_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl02_Pic",
+        "variations": "ImgGirl02_Pic"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl03_Cold",
+        "variations": "ImgGirl03_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl03_Cold_Kaitou1",
+        "variations": "ImgGirl03_Cold_Kaitou1, ImgGirl03_Cold_Kaitou2, ImgGirl03_Cold_Kaitou3, ImgGirl03_Cold_Kaitou4, ImgGirl03_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl03_Cold_Nama",
+        "variations": "ImgGirl03_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl03_Cold_OK",
+        "variations": "ImgGirl03_Cold_OK, ImgGirl03_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl03_Fuku",
+        "variations": "ImgGirl03_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl03_Pic",
+        "variations": "ImgGirl03_Pic"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl04_Cold",
+        "variations": "ImgGirl04_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl04_Cold_Kaitou1",
+        "variations": "ImgGirl04_Cold_Kaitou1, ImgGirl04_Cold_Kaitou2, ImgGirl04_Cold_Kaitou3, ImgGirl04_Cold_Kaitou4, ImgGirl04_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl04_Cold_Nama",
+        "variations": "ImgGirl04_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl04_Cold_OK",
+        "variations": "ImgGirl04_Cold_OK, ImgGirl04_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl04_Fuku",
+        "variations": "ImgGirl04_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl04_Pic",
+        "variations": "ImgGirl04_Pic"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl05_Cold",
+        "variations": "ImgGirl05_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl05_Cold_Kaitou1",
+        "variations": "ImgGirl05_Cold_Kaitou1, ImgGirl05_Cold_Kaitou2, ImgGirl05_Cold_Kaitou3, ImgGirl05_Cold_Kaitou4, ImgGirl05_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl05_Cold_Nama",
+        "variations": "ImgGirl05_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl05_Cold_OK",
+        "variations": "ImgGirl05_Cold_OK, ImgGirl05_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl05_Fuku",
+        "variations": "ImgGirl05_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl05_Pic",
+        "variations": "ImgGirl05_Pic"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl06_Cold",
+        "variations": "ImgGirl06_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl06_Cold_Kaitou1",
+        "variations": "ImgGirl06_Cold_Kaitou1, ImgGirl06_Cold_Kaitou2, ImgGirl06_Cold_Kaitou3, ImgGirl06_Cold_Kaitou4, ImgGirl06_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl06_Cold_Nama",
+        "variations": "ImgGirl06_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl06_Cold_OK",
+        "variations": "ImgGirl06_Cold_OK, ImgGirl06_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl06_Fuku",
+        "variations": "ImgGirl06_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl06_Pic",
+        "variations": "ImgGirl06_Pic"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl07_Cold",
+        "variations": "ImgGirl07_Cold"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl07_Cold_Kaitou1",
+        "variations": "ImgGirl07_Cold_Kaitou1, ImgGirl07_Cold_Kaitou2, ImgGirl07_Cold_Kaitou3, ImgGirl07_Cold_Kaitou4, ImgGirl07_Cold_Kaitou5"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl07_Cold_Nama",
+        "variations": "ImgGirl07_Cold_Nama"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl07_Cold_OK",
+        "variations": "ImgGirl07_Cold_OK, ImgGirl07_Cold_NG"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl07_Fuku",
+        "variations": "ImgGirl07_Fuku"
+    },
+    {
+        "thumbnail": "Thumbnails/thumbnail_ImgGirl07_Pic",
+        "variations": "ImgGirl07_Pic"
     }
 ]
 }
