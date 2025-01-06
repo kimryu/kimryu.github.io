@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-us">
-
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Unity Web Player | ColdSleepQuizGame</title>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity Web Player | ColdSleepQuizGame</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -60,85 +59,107 @@
       background: #231F20;
     }
   </style>
-</head>
+  </head>
 
-<body>
-  <canvas id="unity-canvas" width=1280 height=720 tabindex="-1"
-    style="width: 1280px; height: 720px; background: #231F20"></canvas>
-  <script src="Build/ColdSleepQuizGame.loader.js"></script>
-  <script>
-    if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
-      // Mobile device style: fill the whole browser client area with the game canvas:
-      var meta = document.createElement('meta');
-      meta.name = 'viewport';
-      meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
-      document.getElementsByTagName('head')[0].appendChild(meta);
+  <body>
+    <canvas id="unity-canvas" width=1280 height=720 tabindex="-1" style="width: 1280px; height: 720px; background: #231F20"></canvas>
+    <script src="Build/ColdSleepQuizGame.loader.js"></script>
+    <script>
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile device style: fill the whole browser client area with the game canvas:
+        var meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.getElementsByTagName('head')[0].appendChild(meta);
 
-      var canvas = document.querySelector("#unity-canvas");
-      canvas.style.width = "100%";
-      canvas.style.height = "100%";
-      canvas.style.position = "fixed";
+        var canvas = document.querySelector("#unity-canvas");
+        canvas.style.width = "100%";
+        canvas.style.height = "100%";
+        canvas.style.position = "fixed";
 
-      document.body.style.textAlign = "left";
-    }
+        document.body.style.textAlign = "left";
+      }
 
-    createUnityInstance(document.querySelector("#unity-canvas"), {
-      arguments: [],
-      dataUrl: "Build/ColdSleepQuizGame.data",
-      frameworkUrl: "Build/ColdSleepQuizGame.framework.js",
-      codeUrl: "Build/ColdSleepQuizGame.wasm",
-      streamingAssetsUrl: "StreamingAssets",
-      companyName: "DefaultCompany",
-      productName: "ColdSleepQuizGame",
-      productVersion: "1.0",
-      // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
-      // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
-    });
-  </script>
-  <h1>コールドスリープ -凍りつく魂-</h1>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        arguments: [],
+        dataUrl: "Build/ColdSleepQuizGame.data",
+        frameworkUrl: "Build/ColdSleepQuizGame.framework.js",
+        codeUrl: "Build/ColdSleepQuizGame.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "DefaultCompany",
+        productName: "ColdSleepQuizGame",
+        productVersion: "1.0",
+        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
+        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
+      });
+    </script>
+  <h1>コールドスリープ -凍りついた心-<br><b>Cold Sleep -Frozen Heart-</b><br>Ver. 1.1</h1>
   <br>
-  <h2>初めに</h2>
+  <h2>初めに (Introduction)</h2>
   <div class="section">
-    <p>これは、冷凍睡眠している女の子を助け出すゲームです。</p>
+    <p>
+      これは、冷凍睡眠している女の子を助け出すゲームです。<br>
+      This is a game about helping a girl in cryogenic sleep.
+    </p>
     <p>
       このゲームは、18歳以上でかつ自己の言動に責任を負える方を対象としています。<br>
-      この条件に当てはまらない方はこのページを閉じてください。
+      この条件に当てはまらない方はこのページを閉じてください。<br>
+      This game is intended for individuals aged 18 and older who can take responsibility for their actions.<br>
+      If you do not meet these conditions, please close this page.
     </p>
     <p>
-      当ページでは、このような表現を含むゲームを創作活動の一環として公開していますが、
-      現実社会における反社会的な思想や犯罪行為を助長することを目的としたものではありません。
+      当ページでは、このような表現を含むゲームを創作活動の一環として公開していますが、<br>
+      現実社会における反社会的な思想や犯罪行為を助長することを目的としたものではありません。<br>
+      This page showcases a game with expressions of this nature as part of a creative endeavor. It is not intended to
+      promote antisocial ideologies or criminal activities in real life.
     </p>
-    <p>以上をご理解いただいたうえで、ゲームをお楽しみください。</p>
+    <p>
+      以上をご理解いただいたうえで、ゲームをお楽しみください。<br>
+      I hope you understand the above and enjoy the game.
+    </p>
   </div>
 
-  <h2>制限事項</h2>
+  <h2>制限事項 (Restrictions)</h2>
   <div class="section">
     <ul>
-      <li>日本語表示のみです (Japanese Only!)</li>
-      <li>PCでのプレイを想定しており、スマホなどでは正しく表示されません。</li>
+      <li><s>日本語表示のみです (Japanese Only!)</s><br>
+        (ver. 1.1) 英語表示に対応しました<br>
+        (ver. 1.1) English display is now supported</li>
+      <li>PCでのプレイを想定しており、スマホなどでは正しく表示されません。<br>The game is designed for PC and may not display correctly on smartphones or other devices.</li>
+      <li>機械翻訳で英訳しています。<br>This English translation was done using machine translation.</li>
+      <li>クイズの出題は日本人向けのものです。<br>The quiz questions are aimed at Japanese people.</li>
     </ul>
   </div>
 
-  <h2>その他</h2>
+  <h2>その他 (Additional Information)</h2>
   <div class="section">
     <p>
-      クイズ内容については十分に確認を行った上で出題しておりますが、万が一内容に誤りがございました際には、何卒ご容赦いただけますようお願い申し上げます。
+      クイズ内容については十分に確認を行った上で出題しておりますが、万が一内容に誤りがございました際には、何卒ご容赦いただけますようお願い申し上げます。<br>
+      While we have carefully reviewed the quiz content, we ask for your understanding if any errors are found.
     </p>
     <p>
-      どうしても解けない場合は、passwordに「KANTAN」と入力するとEasyModeに切り替わります。
+      どうしても解けない場合は、passwordに「KANTAN」と入力するとEasyModeに切り替わります。<br>
+      If you find a question unsolvable, enter "KANTAN" in the password field to switch to Easy Mode.
     </p>
     <p>
       ご意見や不具合がありましたらpixivの作品紹介ページのコメントでお願いします。<br>
+      If you have feedback or encounter any issues, please leave a comment on the introduction page on pixiv.<br>
       <a href="https://www.pixiv.net/artworks/125943523" target="_blank">https://www.pixiv.net/artworks/125943523</a>
     </p>
   </div>
 
-  <h2>更新履歴</h2>
+  <h2>更新履歴 (Update History)</h2>
   <div class="section">
     <ul>
-      <li>ver. 1.0 : 公開 (2025/01/05)</li>
+      <li>ver. 1.0 : 公開 (Released) (2025/01/05)</li>
+      <li>ver. 1.1 : 英語化 (English translation) (2025/01/07)</li>
     </ul>
+    <p>
+      現在のバージョンはタイトル画面の右下で確認できます。<br>
+      更新されない場合はブラウザのキャッシュのクリアした後、このページの再読み込みお願いします。<br>
+      You can check the current version at the bottom right of the title screen.<br>
+      If it does not update, please clear your browser cache and reload this page.
+    </p>
   </div>
-</body>
-
+  </body>
 </html>
